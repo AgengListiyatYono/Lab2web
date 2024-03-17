@@ -1,2 +1,3 @@
 # Lab2web
-Tugas php dasar dan
+#PHP Dasar dan Tugas PHP
+
